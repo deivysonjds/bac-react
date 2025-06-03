@@ -5,10 +5,10 @@ const StatsPanel = () => {
   
   return (
     <div className="bg-white rounded-xl shadow-lg p-6">
-      <h3 className="text-xl font-semibold text-gray-800 mb-4">Game Stats</h3>
+      <h3 className="text-xl font-semibold text-gray-800 mb-4">Estatísticas do jogo</h3>
       <div className="space-y-3">
         <div>
-          <p className="text-sm text-gray-500">Attempts</p>
+          <p className="text-sm text-gray-500">tentativas</p>
           <p className="text-2xl font-bold text-indigo-600">
             {attempts} / {maxAttempts}
           </p>

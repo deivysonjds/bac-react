@@ -17,8 +17,8 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50">
       <Head>
-        <title>Bulls and Cows | Modern Edition</title>
-        <meta name="description" content="A modern version of the classic Bulls and Cows game" />
+        <title>Bulls and Cows</title>
+        <meta name="description" content="Um jogo clássico de quebra de códigos com um toque moderno" />
       </Head>
       
       <main className="container mx-auto px-4 py-8">
